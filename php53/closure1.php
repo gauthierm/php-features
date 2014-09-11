@@ -15,7 +15,9 @@
  * functional programming languages. They allow more expressive code to be
  * written with less boiler-plate syntax.
  *
- * Blocks are an implementation of closures used in Objective-C.
+ * Blocks are an implementation of closures used in Objective-C. JavaScript
+ * supports closures and they are used extensively for event handling and
+ * asynchronous code.
  */
 
 $foo = 'foo';
