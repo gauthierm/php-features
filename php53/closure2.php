@@ -1,5 +1,7 @@
 <?php
 
+$foo = 'foo';
+
 /**
  * We can use pass-by-reference with closures to make it so the closure can
  * modify the value in the parent scope.
