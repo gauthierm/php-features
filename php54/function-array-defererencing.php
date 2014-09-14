@@ -4,7 +4,7 @@
  * Function array dereferencing lets you dereference an array returned by a
  * function or method without assigning it to a variable first.
  *
- * Dereferencing an array means gettin an element out of the array. Before
+ * Dereferencing an array means getting an element out of the array. Before
  * PHP 5.4 you could only dereference arrays through variables.
  */
 
