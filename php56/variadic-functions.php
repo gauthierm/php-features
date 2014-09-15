@@ -17,8 +17,9 @@ function sum(...$numbers) {
 	$sum = 0;
 
 	/**
-	 * Inside the function, our variadic parameter is an array. We can iterate
-	 * or perform any other array operations in our function implementation.
+	 * Inside the function, our variable-length argument is an array. We can
+	 * iterate or perform any other array operations in our function
+	 * implementation.
 	 */
 	foreach ($numbers as $number) {
 		$sum += $number;
